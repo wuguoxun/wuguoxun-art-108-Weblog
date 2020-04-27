@@ -28,13 +28,14 @@ body {
   font-family: "Helvetica", "Arial", sans-serif;
   line-height: 1.5;
   padding: 30px 20px;
-  text-align: center;
+  text-align: left;
   background-repeat: no-repeat;
   background-size: 1280,720;
 }
 
-h1 {
+h3 {
   padding: 20px 0px 10px 0px;
+  text-align: center;
 
 }
 
